@@ -8,7 +8,7 @@
 Docker를 설치하고, docker compose를 실행합니다.
 
 ```shell
-> git clone https://github.com/skkuding/skku-coding-platform.git
+> git clone https://github.com/skkuding/OnlineJudge.git
 > cd skku-coding-platform
 > docker-compose up -d
 ```
